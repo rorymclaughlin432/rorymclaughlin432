@@ -1,7 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on back end development work for Reward Insight
+- 🌱 I’m currently learning AWS
+
+
+![Rory's github stats](https://github-readme-stats.vercel.app/api?username=rorymclaughlin432&show_icons=true)
+
 <!--
-**rorymclaughlin432/rorymclaughlin432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
